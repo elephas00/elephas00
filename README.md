@@ -5,7 +5,7 @@
 - A Machine learning apprentice.
 - I’m currently learning on many projects and I wish I can do all these things in my master journey, welcome to study with me.
   - [x] MIT6.5830 Database System.
-  - [x] MIT6.5840 Distribute System.
+  - [x] MIT6.5840 Distributed System.
   - [ ] Tiny KV. 
   - [ ] fist commit for TiDB.
   - [ ] CMU10-714 Machine Learning System.
