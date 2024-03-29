@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am Elephas, data science master student of ZJU.
+- I am Elephas, a data science master student.
 - I have strong interest about distribute system and the appliance of machine learning.
 - A junior software development engineer.
 - A Machine learning apprentice.
@@ -7,7 +7,7 @@
   - [x] MIT6.5830 Database System.
   - [x] MIT6.5840 Distributed System.
   - [ ] Tiny KV. 
-  - [ ] fist commit for TiDB.
+  - [x] fist commit for TinyKv.
   - [ ] CMU10-714 Machine Learning System.
   - [ ] first commit for vLLM.
   - [ ] MIT6.S081 Operating System. (not start yet)
