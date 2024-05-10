@@ -6,7 +6,7 @@
 - I’m currently learning on many projects and I wish I can do all these things in my master journey, welcome to study with me.
   - [x] MIT6.5830 Database System.
   - [x] MIT6.5840 Distributed System.
-  - [ ] Tiny KV. 
+  - [x] Tiny KV. 
   - [x] fist commit for TinyKv.
   - [ ] CMU10-714 Machine Learning System.
   - [ ] first commit for vLLM.
