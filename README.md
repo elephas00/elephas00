@@ -8,12 +8,4 @@
   - [x] MIT6.5840 Distributed System.
   - [x] Tiny KV. 
   - [x] fist commit for TinyKv.
-  - [ ] contribute for a open-source distributed database.
-  - [ ] CMU10-714 Machine Learning System.
-  - [ ] ~Microsoft AI-System.~
-  - [ ] ~first commit for vLLM.~
-  - [ ] ~first commit for TiDB.~
-  - [ ] ~MIT6.S081 Operating System. (not start yet)~
-- You can contact with me by: yongjianglong00@gmail.com
-- My technology radar: ![technology-radar](https://github.com/elephas00/elephas00/assets/72189234/7d1ef455-822e-40e3-bde8-23af32a435a1)
 
